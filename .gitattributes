@@ -1,1 +1,2 @@
-sql_projekt/* linguist-language=SQL
+*.python linguist-language=false
+*.sql linguist-language=true
