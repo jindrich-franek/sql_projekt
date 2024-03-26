@@ -1,10 +1,10 @@
 -- zbaBw5yNnZg8R8L
 
-roky -- payroll_year
-mzdy -- avg_wages
-odvětví -- branch 
-cen potravin -- avg_value
-potraviny -- name
+-- roky -- payroll_year
+-- mzdy -- avg_wages
+-- odvětví -- branch 
+-- cen potravin -- avg_value
+-- potraviny -- name
 
 CREATE TABLE t_jindrich_franek_project_SQL_primary_final
 SELECT 
